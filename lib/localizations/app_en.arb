@@ -1,0 +1,26 @@
+{
+    "helloWorld": "Hello World!",
+    "@helloWorld": {
+        "description": "The conventional newborn programmer greeting"
+    },
+    "nHorses": "{count, plural, =0{no horses} =1{1 horse} other{{count} horses}}",
+    "@nHorses": {
+        "description": "A plural message",
+        "placeholders": {
+            "count": {
+                "type": "num",
+                "format": "compact"
+            }
+        }
+    },
+    "helloWorldOn": "Hello World on {date}",
+    "@helloWorldOn": {
+        "description": "A message with a date parameter",
+        "placeholders": {
+            "date": {
+                "type": "DateTime",
+                "format": "yMd"
+            }
+        }
+    }
+}

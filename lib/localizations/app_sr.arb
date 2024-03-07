@@ -1,0 +1,5 @@
+{
+    "helloWorld": "Pozdrav svete!",
+    "nHorses": "{count, plural, =0{nema konja} =1{1 konj} other{{count} konja}}",
+    "helloWorldOn": "Pozdrav svete na dan {date}"
+}

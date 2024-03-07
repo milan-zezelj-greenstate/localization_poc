@@ -1,0 +1,19 @@
+{
+  "configurations" : [
+    {
+      "id" : "9B061564-EEB3-4496-B381-949DD32E3F92",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "region" : "RS",
+    "testTimeoutsEnabled" : true
+  },
+  "testTargets" : [
+
+  ],
+  "version" : 1
+}
